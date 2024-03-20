@@ -2,3 +2,6 @@ numpy
 pytest
 ipytest
 bqplot
+pika
+os
+
